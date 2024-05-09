@@ -9,7 +9,7 @@ $(function() {
         });
     });
     $('#no').click(function(event) {
-        modal('點錯啦，重來！', A);
+        modal('別想了 我喜歡你', A);
     });
 });
 
