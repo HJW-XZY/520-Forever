@@ -22,15 +22,15 @@ function B() {
 }
 
 function C() {
-    modal('或許以後我們會更換稱謂', D);
+    modal('或許以後我們會更換稱謂 從戀人變成家人', D);
 }
 
 function D() {
-    modal('但是請相信', E);
+    modal('但請相信', E);
 }
 
 function E() {
-    modal('我會像熱戀時一樣喜歡你', F);
+    modal('我會一直像如今熱戀時一樣喜歡你', F);
 }
 
 function F() {
