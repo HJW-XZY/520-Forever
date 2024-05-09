@@ -50,7 +50,7 @@ function I() {
 }
 
 function J() {
-    modal('遇見你 是我今年最幸運的事 相信也會是這輩子最幸運的事~', function() {
+    modal('遇見你 是我今年最幸運的事 相信也會是今生最幸運的事~', function() {
         fireworks();
     });
 }
